@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CONTACT-LIST-REACT-REDUX/static/css/main.15f7ff3d.css",
+    "main.js": "/CONTACT-LIST-REACT-REDUX/static/js/main.c7675e9d.js",
+    "index.html": "/CONTACT-LIST-REACT-REDUX/index.html",
+    "main.15f7ff3d.css.map": "/CONTACT-LIST-REACT-REDUX/static/css/main.15f7ff3d.css.map",
+    "main.c7675e9d.js.map": "/CONTACT-LIST-REACT-REDUX/static/js/main.c7675e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f7ff3d.css",
+    "static/js/main.c7675e9d.js"
+  ]
+}
